@@ -1,0 +1,14 @@
+ .idea/.gitignore                                     | 10 [32m++++++++++[m
+ ...830-apo2-g1-taller-apo2-semana-5-lfsanchezrod.iml |  9 [32m+++++++++[m
+ .idea/compiler.xml                                   | 13 [32m+++++++++++++[m
+ .idea/encodings.xml                                  |  7 [32m+++++++[m
+ .idea/jarRepositories.xml                            | 20 [32m++++++++++++++++++++[m
+ .idea/misc.xml                                       | 14 [32m++++++++++++++[m
+ .idea/modules.xml                                    |  8 [32m++++++++[m
+ .idea/vcs.xml                                        |  6 [32m++++++[m
+ AppRestaurante/src/main/java/model/Item.java         | 10 [32m++++++++++[m
+ AppRestaurante/src/main/java/model/Order.java        | 18 [31m------------------[m
+ AppRestaurante/src/main/java/model/Restaurant.java   | 15 [32m+++[m[31m------------[m
+ AppRestaurante/src/test/java/model/Additemtest.java  | 17 [32m+++++++++++++++++[m
+ .../src/test/java/model/RestaurantTest.java          | 19 [32m++++++++++++++[m[31m-----[m
+ 13 files changed, 131 insertions(+), 35 deletions(-)
